@@ -24,7 +24,7 @@ Passionate about clean code, scalable architecture, and creating engaging user e
 - 📊 [Project Management System](https://project-management-system-sigma-two.vercel.app/)  
   *Role-based access, real-time updates, responsive UI*  
 
-- 🛒 [E-commerce Store](https://e-commerce-931i.vercel.app/)  
+- 🛒 [E-commerce Store](https://e-commerce-touk.vercel.app)  
   *React, Context API, responsive design*  
 
 - 🗺️ [3D Interactive Map (KSA)](https://rct-map.vercel.app/)  
